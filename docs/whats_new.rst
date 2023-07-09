@@ -17,6 +17,16 @@ in specific versions. Please see :ref:`version_guarantees` for more information.
 
 .. towncrier release notes start
 
+.. _vp2p100p1:
+
+v2.100.1
+--------
+
+Breaking Changes
+~~~~~~~~~~~~~~~~
+- A. (:issue:`4242`)
+
+
 .. _vp2p100p0:
 
 v2.100.0
