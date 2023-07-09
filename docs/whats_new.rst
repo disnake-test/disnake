@@ -17,6 +17,16 @@ in specific versions. Please see :ref:`version_guarantees` for more information.
 
 .. towncrier release notes start
 
+.. _vp2p99p1:
+
+v2.99.1
+-------
+
+Miscellaneous
+~~~~~~~~~~~~~
+- Nothing. (:issue:`9001`)
+
+
 .. _vp2p99p0:
 
 v2.99.0
